@@ -4,3 +4,4 @@ beautifulsoup4
 jieba
 selenium
 webdriver-manager
+undetected-chromedriver
